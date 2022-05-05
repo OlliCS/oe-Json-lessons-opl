@@ -1,4 +1,4 @@
-const fishes = [{
+[{
         "id": 1,
         "name": "Alver",
         "latinName": "Alburnus alburnus",
